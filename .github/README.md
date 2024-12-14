@@ -1,1 +1,1 @@
-FreeFirexAimbot.dylib 
+<FreeFirexAimbot.dylib>
