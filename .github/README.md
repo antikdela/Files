@@ -1,1 +1,1 @@
-open
+FreeFirexAimbot.dylib 
