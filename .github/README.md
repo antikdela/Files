@@ -1,2 +1,0 @@
-Navite Resolution 1635x750
-Current Resolution 1335x750
